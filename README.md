@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="left">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MiniduTH&label=Profile%20views&color=0e75b6&style=flat" alt="MiniduTH" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
 
