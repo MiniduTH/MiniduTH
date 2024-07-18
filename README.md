@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/minidu0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Minidu" height="30" width="40" /></a>
   <a href="https://fb.com/minidu0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MiniduFB" height="30" width="40" /></a>
-  <a href="https://instagram.com/minidu_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MiniduIG" width="40" /></a>
-  <a href="mailto:misterminidu@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://instagram.com/minidu_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MiniduIG" height="30" width="40" /></a>
+  <a href="mailto:misterminidu@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" /></a>
 </p>
 
 
