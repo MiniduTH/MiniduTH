@@ -59,3 +59,12 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
   <a href="mailto:misterminidu@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MiniduTH/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MiniduTH/MiniduTH/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
