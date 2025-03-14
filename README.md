@@ -68,3 +68,11 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 <img src="https://raw.githubusercontent.com/MiniduTH/MiniduTH/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/dwsnb2znraggso7hf1dt1ail7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dwsnb2znraggso7hf1dt1ail7&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
