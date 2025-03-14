@@ -46,10 +46,6 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=MiniduTH&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MiniduTH&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="linkedin.com/in/minidu0th/" target="_blank">Minidu Weerasinghe</a> Email: misterminidu@gmail.com</p>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
 
