@@ -48,9 +48,9 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MiniduTH&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
 
-##Connect with me
+## Connect with me
 
 <p>
   <a href="https://linkedin.com/in/minidu0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Minidu" height="30" width="40" /></a>
