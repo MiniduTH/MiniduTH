@@ -1,4 +1,4 @@
-<div align="center">
+
 ## About Me
 
 Hi, I'm **Minidu Thiranjaya Weerasinghe**, a passionate **full-stack** web developer and an undergraduate student specializing in **Software Engineering**. With a strong foundation in both frontend and backend technologies, I love building scalable, user-friendly applications that solve real-world problems.
@@ -50,9 +50,8 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
 
-</div>
-<h3 align="center">Connect with me:</h3>
-<p>
+##Connect with me
+<p align="center">
   <a href="https://linkedin.com/in/minidu0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Minidu" height="30" width="40" /></a>
   <a href="https://fb.com/minidu0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MiniduFB" height="30" width="40" /></a>
   <a href="https://instagram.com/minidu_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MiniduIG" height="30" width="40" /></a>
