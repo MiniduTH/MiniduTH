@@ -50,7 +50,8 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
 
-<div align="center">## Connect with me </div>
+<div align="center">
+## Connect with me </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/minidu0th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Minidu" height="30" width="40" /></a>
