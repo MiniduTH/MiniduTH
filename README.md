@@ -49,14 +49,6 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
 
-<h3 align="center">
-Visits </h3>
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MiniduTH/count.svg?"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/MiniduTH/MiniduTH/output/pacman-contribution-graph.svg" alt="Pacman animation" />
