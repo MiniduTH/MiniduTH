@@ -47,8 +47,6 @@ I'm always eager to learn and explore new tools and frameworks to stay updated w
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=MiniduTH&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiniduTH" alt="MiniduTH" /></a> </p>
-
 ###
 
 <img src="https://raw.githubusercontent.com/MiniduTH/MiniduTH/output/pacman-contribution-graph.svg" alt="Pacman animation" />
